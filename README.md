@@ -6,14 +6,14 @@ I build cloud systems that stay up, ship without downtime, and come with proof.
 Infrastructure as code, security checks in every pipeline, and failure experiments
 that test the design, not just the happy path.
 
-### What I bring
+### What I Bring
 
 - **Reliability by design:** zero-downtime rollouts, health probes, retries with deadlines, idempotent writes. Measured, not assumed.
 - **Infrastructure as code:** reusable Terraform modules, validated and security-scanned in CI.
 - **Secure by default:** least-privilege IAM, NetworkPolicies, non-root containers, vulnerability and secret scanning.
 - **Evidence-driven:** every result links to raw test output and experiment logs.
 
-### Featured work
+### Featured Works
 
 | Project | What it shows | Proof |
 |---|---|---|
@@ -25,6 +25,6 @@ that test the design, not just the happy path.
 
 `AWS` `Terraform` `Docker` `Kubernetes` `Helm` `GitHub Actions` `Python` `Node.js` `PostgreSQL` `Redis` `DynamoDB` `Trivy` `gitleaks`
 
-### Let's talk
+### Let's Talk
 
 Open to Cloud and DevOps roles: **[LinkedIn](https://www.linkedin.com/in/prudence-alexx/)** · **[X](https://x.com/alexxdsgns)** · **[Email](mailto:alexxdsgns@gmail.com)**

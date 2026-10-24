@@ -27,4 +27,8 @@ that test the design, not just the happy path.
 
 ### 📫 Let's talk
 
-Open to Cloud and DevOps roles → **[LinkedIn](https://www.linkedin.com/in/prudence-alexx/)**
+Open to Cloud and DevOps roles. Reach me on any of these:
+
+- 💼 **LinkedIn:** [linkedin.com/in/prudence-alexx](https://www.linkedin.com/in/prudence-alexx/)
+- 𝕏 **X:** [@alexxdsgns](https://x.com/alexxdsgns)
+- ✉️ **Email:** [alexxdsgns@gmail.com](mailto:alexxdsgns@gmail.com)
